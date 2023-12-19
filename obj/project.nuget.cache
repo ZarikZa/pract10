@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCl3PR4RtJuQLWmMTpzXlDavcqly+LNb2pcCeTVBdTkL+ky0UPvMEFo+J4hIR2aAY6JB8EdXpCt/Tr+9Kut4gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI-MODERN-14\\source\\repos\\proverka324\\proverka324\\proverka324.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI-MODERN-14\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

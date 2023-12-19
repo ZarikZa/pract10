@@ -1,0 +1,17 @@
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\bin\Debug\net6.0\proverka324.exe
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\bin\Debug\net6.0\proverka324.deps.json
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\bin\Debug\net6.0\proverka324.runtimeconfig.json
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\bin\Debug\net6.0\proverka324.dll
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\bin\Debug\net6.0\proverka324.pdb
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.AssemblyInfoInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.AssemblyInfo.cs
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.dll
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\refint\proverka324.dll
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.pdb
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.genruntimeconfig.cache
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\ref\proverka324.dll
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.csproj.AssemblyReference.cache
+C:\Users\MSI-MODERN-14\source\repos\proverka324\proverka324\obj\Debug\net6.0\proverka324.csproj.CopyComplete
